@@ -1,0 +1,24 @@
+{
+  "name": "vuejs",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "app.js",
+  "dependencies": {
+    "vue": "^1.0.18",
+    "vue-resource": "^0.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessicaherford/vueJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessicaherford/vueJS/issues"
+  },
+  "homepage": "https://github.com/jessicaherford/vueJS#readme"
+}
